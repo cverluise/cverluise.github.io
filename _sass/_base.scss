@@ -642,6 +642,24 @@ footer.sticky-bottom {
   .grid-item {
     width: 250px;
     margin-bottom: 10px;
+
+    a {
+      color: black;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+
+    .card {
+      img {
+        width: 100%;
+      }
+      .card-title {
+        color: $black-color;
+      }
+    }
   }
 
   h2.category {

@@ -2,10 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Putting research on steroids with open source 
 nav: true
+<<<<<<< HEAD
 nav_order: 3
 display_categories: [work, fun]
+=======
+display_categories: [live, coming soon]
+>>>>>>> 9268cc8 (:tada: initialize personnal website)
 horizontal: false
 ---
 

@@ -171,6 +171,7 @@ Want to know more? You are at the right place 👇
 
 #### ☁️ Cloud
 
+
 | Cloud Service &nbsp; &nbsp; &nbsp; &nbsp; | Tools &nbsp; &nbsp; &nbsp; &nbsp; | Years' Experience &nbsp; &nbsp; &nbsp; &nbsp; | Proficiency &nbsp; &nbsp; &nbsp; &nbsp; |
 |-------------------------------------------|-----------------------------------|-----------------------------------------------|-----------------------------------------|
 | Amazon Web Services	                      | S3			                             | 3	                                            | Intermediary                            |
@@ -192,3 +193,4 @@ Want to know more? You are at the right place 👇
 | Command Line Interface	            | typer		                           | 3	                                            | Intermediary                            |
 | API						                          | fastapi		                         | 4	                                            | Intermediary                            |
 | Container                          | Docker                            | 3                                             | Intermediary                            |
+

@@ -1,50 +1,66 @@
-"Bergeaud":
+"bergeaud":
   - firstname: ["Antonin", "A.", "A"]
     url: https://sites.google.com/site/abergeaudeco
 
-"de Rassenfosse":
+"de rassenfosse":
   - firstname: ["Gaétan", "G.", "G"]
     url: https://gder.phpnet.org/rassenfosse/bio.html
 
-"Rassenfosse":
+"rassenfosse":
   - firstname: ["Gaétan", "G.", "G"]
     url: https://gder.phpnet.org/rassenfosse/bio.html
 
-"Higham":
+"higham":
   - firstname: ["Kyle", "K.", "K", "K. W.", "KW", "Kyle William"]
     url: https://scholar.google.com/citations?user=Ze-7kTYAAAAJ&hl=en
 
-"Cristelli":
+"cristelli":
   - firstname: ["Gabriele", "G."]
     url: https://scholar.google.com/citations?user=yp8qc9UAAAAJ&hl=en
 
-"Somers":
+"somers":
   - firstname: ["Ken", "K", "K."]
     url: https://www.mckinsey.com/our-people/ken-somers
 
-"Schneider":
+"schneider":
   - firstname: ["Emmanuel", "E", "E."]
     url: https://www.linkedin.com/in/emmanuel-schneider-b557a9a1/
 
-"Broyer":
+"broyer":
   - firstname: ["Sylvain", "S.", "S"]
     url: https://www.linkedin.com/in/sylvain-broyer-59ab5576/
 
-"Adams":
+"adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"Podolsky":
+"podolsky":
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Rosen":
+"rosen":
   - firstname: ["Nathan", "N."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Bach": 
+"bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+"przibram":
+  - firstname: ["Karl"]
+    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+
+"schrodinger":
+  - firstname: ["Erwin"]
+    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+
+"lorentz":
+  - firstname: ["Hendrik Antoon"]
+    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+
+"planck":
+  - firstname: ["Max"]
+    url: https://en.wikipedia.org/wiki/Max_Planck

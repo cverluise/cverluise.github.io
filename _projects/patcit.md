@@ -2,7 +2,7 @@
 layout: page
 title: "patCit"
 description: Making Patent Citations Uncool Again
-img: /assets/img/patcit.jpeg
+img: /assets/img/patcit.png
 importance: 1
 category: live
 ---
